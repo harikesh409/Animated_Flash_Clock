@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Animated Flash Clock Widget Generator by Making Different</title>
+
+        <style type="text/css">
+
+.text-input, .select-box{
+
+        margin:0 2px;
+
+        padding:4px 6px;
+
+        border: 2px solid #000;
+
+
+
+        -webkit-border-radius: 4px;
+
+        -moz-border-radius: 4px;
+
+        border-radius: 4px;
+
+        font-family: gergia;
+
+        font-style: italic;
+
+
+
+        -webkit-box-shadow: 1px 1px 1px #dfdfdf;
+
+        -moz-box-shadow: 1px 1px 1px #dfdfdf;
+
+        box-shadow: 1px 1px 1px #dfdfdf;
+
+        font-size: 14px;
+
+        color: #666;
+
+        max-width:auto;
+
+}
+
+            body { font-family: Lucida Fax;margin: 0;padding: 0;text-align: left;font-size:small;}
+
+            #content-wrapper { width: 95%;  margin: 0 auto;  padding: 1%;  text-align: left;
+
+            background:#fff;
+
+border:3px solid #330099;
+
+
+            }
+
+            #content-wrapper h2 {font-size:20px;margin: 5px 0 1em ;padding: 3px 10px;background-color: #FEFFBF;font-size:16px;color:#000;border:1px solid #111;text-align:center;-moz-border-radius: 6px;-webkit-border-radius: 6px;border-radius: 6px;
+
+            -webkit-border-radius: 20px;-moz-border-radius: 20px;border-radius: 20px;
+
+            }
+
+            fieldset{-moz-border-radius: 8px;-webkit-border-radius: 8px;border-radius: 8px;border:1px solid #AAA;}
+
+            fieldset legend{font-size:15px;font-weight:bold; padding:2px 10px;border:1px solid #AAA;-moz-border-radius: 4px;-webkit-border-radius: 4px;border-radius: 4px;}
+
+        </style>
+
+        <script type="text/javascript">
+
+        eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('p x(){6 a="";8(i=0;i<1.2("5").y;i++){z(1.2("5")[i].m==9){a=1.2("5")[i].3}}6 d=1.2("r")[0].3;6 l=1.2("q")[0].3;6 f=1.2("b.n")[0];f.3="<t><A w=\\"v\\" 3=\\"g:\\/\\/4-7.h\\/c-4-7-8-k\\/c-4-u-B.G\\"><j K=\\"g:\\/\\/4-7.h\\/c-4-7-8-k\\/"+a+"\\" J=\\""+d+"\\" H=\\""+l+"\\" E=\\"F\\"> <\\/j><\\/t>";1.2("o")[0].s=D}p I(){1.2("b.n")[0].3="";1.2("o")[0].s=9;1.2("5")[0].m=9;1.2("b.L")[0].3="C";1.2("r")[0].3="e";1.2("q")[0].3="e"}',48,48,'|document|getElementsByName|value|flash|mdttype|var|clocks|for|true|mdttypeselected|widget|free|mdwidgetwidth|150|mdtwidgetcontent|http|com||embed|websites|mdwidgetheight|checked|content|go|function|theight|twidth|disabled|object|clock|movie|name|makingdifferentGenerate|length|if|param|33|Time|false|wmode|transparent|swf|height|mdtwitterreset|width|src|title'.split('|'),0,{}))
+
+</script>
+
+    </head>
+
+    <body>
+
+
+
+        <div id="content-wrapper">
+
+            <h2>Animated Flash Clock Widget Generator by Blogg-tricks</h2>
+
+            <fieldset style="padding:10px;;width:98%"><legend>Select a Type of Clock</legend>
+
+                <table width="100%">
+
+                    <tr>
+
+                        <td witdth="33%"><input type="radio" name="mdttype" value="free-flash-clock-33.swf" checked="checked"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-33.swf"><embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-33.swf" width="150" height="150" wmode="transparent"> </embed></object> </td>
+
+
+
+                        <td witdth="33%"><input type="radio" name="mdttype" value="free-flash-clock-24.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-24.swf"><embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-24.swf" width="150" height="150" wmode="transparent"> </embed></object> </td>
+
+
+
+                        <td witdth="33%"><input type="radio" name="mdttype" value="free-flash-clock-23.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-23.swf"><embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-23.swf" width="150" height="150" wmode="transparent"> </embed></object> </td></tr>
+
+
+
+<tr><td><input type="radio" name="mdttype" value="free-flash-clock-28.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-28.swf"><embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-28.swf" width="150" height="150" wmode="transparent"> </embed></object></td>
+
+
+
+<td><input type="radio" name="mdttype" value="free-flash-clock-8.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-8.swf"><embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-8.swf" width="150" height="150" wmode="transparent"> </embed></object> </td>
+
+
+
+<td><input type="radio" name="mdttype" value="free-flash-clock-15.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-15.swf"><embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-15.swf" width="150" height="150" wmode="transparent"> </embed></object> </td></tr>
+
+
+
+<tr><td><input type="radio" name="mdttype" value="free-flash-clock-63.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-63.swf"><embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-63.swf" width="150" height="150" wmode="transparent"> </embed></object> </td>
+
+
+
+<td><input type="radio" name="mdttype" value="free-flash-clock-58.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-58.swf"><embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-58.swf" width="150" height="150" wmode="transparent"></embed></object> </td>
+
+
+
+<td><input type="radio" name="mdttype" value="free-flash-clock-11.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-11.swf"><embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-11.swf" width="150" height="150" wmode="transparent"> </embed></object> </td></tr>
+
+
+
+<tr><td><input type="radio" name="mdttype" value="free-flash-clock-1.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-1.swf"> <embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-1.swf" width="150" height="250" wmode="transparent"></object> </td>
+
+
+
+<td><input type="radio" name="mdttype" value="free-flash-clock-10.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-10.swf"> <embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-10.swf" width="150" height="250" wmode="transparent"></object></td>
+
+
+
+<td><input type="radio" name="mdttype" value="free-flash-clock-13.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-13.swf"> <embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-13.swf" width="150" height="250" wmode="transparent"></object></td></tr>
+
+
+
+<tr><td><input type="radio" name="mdttype" value="free-flash-clock-14.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-14.swf"> <embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-14.swf" width="150" height="250" wmode="transparent"></object></td>
+
+
+
+
+
+<td><input type="radio" name="mdttype" value="free-flash-clock-17.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-17.swf"> <embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-17.swf" width="150" height="250" wmode="transparent"></object></td>
+
+
+
+<td><input type="radio" name="mdttype" value="free-flash-clock-99.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-99.swf"> <embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-99.swf" width="150" height="250" wmode="transparent"></object></td></tr>
+
+
+
+<tr><td><input type="radio" name="mdttype" value="free-flash-clock-2.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-2.swf"> <embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-2.swf" width="150" height="250" wmode="transparent"></object></td>
+
+
+
+<td><input type="radio" name="mdttype" value="free-flash-clock-3.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-3.swf"> <embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-3.swf" width="150" height="250" wmode="transparent"></object></td>
+
+
+
+<td><input type="radio" name="mdttype" value="free-flash-clock-4.swf"/></td><td><object><param name="movie" value="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-4.swf"> <embed src="http://flash-clocks.com/free-flash-clocks-for-websites/free-flash-clock-4.swf" width="150" height="250" wmode="transparent"></object></td></tr>
+
+</table>
+
+</fieldset>
+
+<br/>
+
+<fieldset><legend>Settings</legend>
+
+<table width="100%">
+
+<form method="post" action="http://www.blogger.com/add-widget" target="_blank">
+
+                    <tr>
+
+<td width="50%">Widget Title</td>
+
+<td width="50%">: <input class='text-input' type='text' name='widget.title' value='Time' size='25'></tr></td>
+
+                    </tr>
+
+
+
+                    <tr>
+
+
+
+                        <td>Width</td><td>: <input class="text-input" type="text" size="6" name="twidth" value="150"> Px</td>
+
+                    </tr>
+
+
+
+                    <tr>
+
+                        <td>Height</td><td>: <input class="text-input" type="text" size="6" name="theight" value="150"> Px</td>
+
+
+
+                    </tr>
+
+                </table>
+
+            </fieldset>
+
+            <br/>
+
+            <center>
+
+
+
+               
+
+                    <input name="gen" style="width:100px;margin-right:5px;" value="Generate" onclick="javascript:makingdifferentGenerate();" type="button"><input style="width:100px;" value="Reset" onclick="javascript:mdtwitterreset();" type="button"><br>
+
+                    <input style="width:205px;margin-top:5px;font-weight:bold;font-size:18px;" disabled="disabled" name="go" value="Add to Blogger" type="submit"><br>
+
+
+
+                    <textarea name="widget.content" style="display: none;width:0px;height:0px;"></textarea>
+
+                    <input name="infoUrl" value="http://www.blogg-tricks.blogspot.com" type="hidden"/>
+
+                    <input name="logoUrl" value="http://i49.tinypic.com/2r3xxz8.gif" type="hidden">
+
+                </form>
+
+                <br/>
+
+
+
+                <small style="font-size:12px;">Copyright &#169; 2012 All Rights Rserved by <b style="font-size:15px;">P.Harikesh</b> @ <a href="http://www.blogg-tricks.blogspot.in/">Blogg-tricks</a></small>
+
+
+
+            </center>
+
+        </div>
+
+    </body>
+
+</html>
